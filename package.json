@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ag-grid-community/client-side-row-model": "^29.3.1",
+    "@ag-grid-community/core": "^29.3.1",
+    "@ag-grid-community/react": "^29.3.1"
+  }
+}
